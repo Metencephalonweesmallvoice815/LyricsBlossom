@@ -37,6 +37,11 @@
 
 ## Getting Started / 快速开始
 
+### 字体
+
+下载并安装全套 SF Pro, PingFang SC, PingFang TC
+mac 用户 SF Pro [下载](https://developer.apple.com/fonts/) 
+
 ### 歌词获取
 
 LyricsBlossom 通过 **Apple Music 账号**获取同步歌词。首次启动或 Token 过期时，播放音乐会弹出登录框，登录你的 Apple Music 账号即可。
