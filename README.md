@@ -4,8 +4,8 @@
 
 **macOS** · **Windows**
 
-[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom-blossom-now-/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/Eplorr/LyricsBlossom-blossom-now-/total?style=flat-square)](https://github.com/Eplorr/LyricsBlossom-blossom-now-m/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Eplorr/LyricsBlossom-blossom-now-/total?style=flat-square)](https://github.com/Eplorr/LyricsBlossom-m/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#-license)
 
 ## Features
@@ -22,7 +22,7 @@
 
 ## Download / 下载
 
-前往 **[Releases](https://github.com/Eplorr/LyricsBlossom-blossom-now-/releases/latest)** 下载最新版本。
+前往 **[Releases](https://github.com/Eplorr/LyricsBlossom/releases/latest)** 下载最新版本。
 目前 macOS 只编译了 Apple Silicon 的版本，Intel 架构后续会补充
 
 ---
@@ -121,7 +121,7 @@ sudo xattr -cr /Applications/LyricsBlossom.app
 
 ## Feedback / 反馈
 
-- **Bug & Feature Requests**: [GitHub Issues](https://github.com/Eplor/LyricsBlossom/issues)
+- **Bug & Feature Requests**: [GitHub Issues](https://github.com/Eplorr/LyricsBlossom/issues)
 - **QQ 交流群**: `337191911`
 
 反馈 Bug 时请注明：操作系统版本、复现步骤。
